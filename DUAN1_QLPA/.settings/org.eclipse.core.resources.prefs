@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/edu/com/admin/servlet/VideoManagementServlet.java=UTF-8
+encoding//src/edu/com/dao/AbstractEntityDao.java=UTF-8
+encoding//src/edu/com/dao/UserDAO.java=UTF-8
+encoding//src/edu/com/user/servlet/EditprofileServet.java=UTF-8
+encoding//src/edu/com/user/servlet/LoginServlet.java=UTF-8
+encoding//src/edu/com/utils/PageInfo.java=UTF-8
+encoding//src/edu/com/utils/PageType.java=UTF-8
+encoding//src/edu/com/utils/SessionUtils.java=UTF-8
